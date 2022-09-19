@@ -50,3 +50,9 @@ i {
 .active-notification {
     font-size: 12px;
 }
+
+.chat-preview {
+    background-color: hsl(0deg 0% 92%);
+    height: 80px;
+    width: 100%;
+}
